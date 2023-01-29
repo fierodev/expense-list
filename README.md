@@ -1,1 +1,1 @@
-# react-practic
+# expense-list
